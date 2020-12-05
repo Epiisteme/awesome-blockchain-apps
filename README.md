@@ -2,7 +2,7 @@
 A Curation of Creative Applications of Blockchain Technology
 
 # Traffic Management
-- NASA Hyperledger Pilot >> https://www.blockchain-council.org/hyperledger/nasa-to-use-hyperledger-blockchain-for-air-traffic-management/
+- NASA Hyperledger Pilot >> https://bit.ly/2JSoR9u
 
 # Travel and Transportation
 
