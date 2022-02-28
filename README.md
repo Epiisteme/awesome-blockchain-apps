@@ -8,6 +8,12 @@ A Curation of Creative Applications of Blockchain Technology
 - https://contractbook.com/blog/contract-management
 - https://www.businessnewsdaily.com/4813-contract-management.html
 - https://lawvu.com/articles/the-fundamentals-of-contract-management/
+- https://101blockchains.com/contract-management-solutions-and-blockchain/
+- https://www.blockchain-council.org/blockchain/blockchain-can-used-contract-management-works/
+- https://blog.varstreetinc.com/how-is-blockchain-revolutionizing-contract-management-solutions-in-2021/
+
+## Government Sector
+- https://www.ijert.org/research/government-scheme-and-funds-tracker-using-blockchain-IJERTV10IS050403.pdf
 
 ## Advertisements
 - AdSpace on Blockchain - https://github.com/oceanchild/Centurion
