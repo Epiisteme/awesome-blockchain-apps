@@ -4,13 +4,17 @@ A Curation of Creative Applications of Blockchain Technology
 ## Traffic Management
 - NASA Hyperledger Pilot >> https://bit.ly/2JSoR9u
 
+## Contract Management
+- https://contractbook.com/blog/contract-management
+- https://www.businessnewsdaily.com/4813-contract-management.html
+- https://lawvu.com/articles/the-fundamentals-of-contract-management/
+
 ## Advertisements
 - AdSpace on Blockchain - https://github.com/oceanchild/Centurion
 - AdCollection on Blockchain - https://github.com/adX-agency/adx-blockchain
 - SGX based Private AdChain - https://github.com/wgsjack199213/private_advertisement_recommendation
 - Affiliation based AdChain - https://github.com/sayak119/Ad-Chain
 - Ad Billboard Marketplace - https://github.com/kdugue/billboards
-
 
 ## Satellite Networks
 - Blockchain Network for Low Earth Objects >> https://github.com/sergiomtzlosa/blockchain-satellite
