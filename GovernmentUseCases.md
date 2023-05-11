@@ -23,6 +23,7 @@
 
 ## Law Enforcement
 - https://github.com/samarthtambad/blockchain-for-law-enforcement
+- https://justcreateapp.com/blockchain-messaging-chat-app-top-10-how-to-create
 - https://www.natlawreview.com/article/chain-custody-evidence-using-blockchain-technology
 - https://www.chain.com/blog/how-can-blockchain-technology-be-applied-to-chain-of-custody
 
