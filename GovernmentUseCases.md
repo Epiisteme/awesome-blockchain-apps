@@ -4,12 +4,12 @@
 - https://www.frontiersin.org/articles/10.3389/fenvs.2022.909606/full
 
 ## Contract Management
-https://contractbook.com/blog/contract-management
-https://www.businessnewsdaily.com/4813-contract-management.html
-https://lawvu.com/articles/the-fundamentals-of-contract-management/
-https://101blockchains.com/contract-management-solutions-and-blockchain/
-https://www.blockchain-council.org/blockchain/blockchain-can-used-contract-management-works/
-https://blog.varstreetinc.com/how-is-blockchain-revolutionizing-contract-management-solutions-in-2021/
+- https://contractbook.com/blog/contract-management
+- https://www.businessnewsdaily.com/4813-contract-management.html
+- https://lawvu.com/articles/the-fundamentals-of-contract-management/
+- https://101blockchains.com/contract-management-solutions-and-blockchain/
+- https://www.blockchain-council.org/blockchain/blockchain-can-used-contract-management-works/
+- https://blog.varstreetinc.com/how-is-blockchain-revolutionizing-contract-management-solutions-in-2021/
 
 ## Welfare Distribution
 - https://www.ijert.org/research/government-scheme-and-funds-tracker-using-blockchain-IJERTV10IS050403.pdf
@@ -19,3 +19,12 @@ https://blog.varstreetinc.com/how-is-blockchain-revolutionizing-contract-managem
 ## Land Records Management
 
 ## Certificate Management
+
+## Traffic Management
+- NASA Hyperledger Pilot >> https://bit.ly/2JSoR9u
+
+## Satellite Networks
+- Blockchain Network for Low Earth Objects >> https://github.com/sergiomtzlosa/blockchain-satellite
+- Blockstream >> https://github.com/Blockstream/satellite
+- Spacechain >> https://spacechain.com/
+- Lithopia >> https://github.com/anonette/lithopia
