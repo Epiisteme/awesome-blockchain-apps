@@ -1,19 +1,9 @@
 # awesome-blockchain-apps
 A Curation of Creative Applications of Blockchain Technology
 
-## Traffic Management
-- NASA Hyperledger Pilot >> https://bit.ly/2JSoR9u
-
-## Contract Management
-- https://contractbook.com/blog/contract-management
-- https://www.businessnewsdaily.com/4813-contract-management.html
-- https://lawvu.com/articles/the-fundamentals-of-contract-management/
-- https://101blockchains.com/contract-management-solutions-and-blockchain/
-- https://www.blockchain-council.org/blockchain/blockchain-can-used-contract-management-works/
-- https://blog.varstreetinc.com/how-is-blockchain-revolutionizing-contract-management-solutions-in-2021/
-
-## Government Sector
-- https://www.ijert.org/research/government-scheme-and-funds-tracker-using-blockchain-IJERTV10IS050403.pdf
+## UseCases
+- Government Sector
+- Advertisements
 
 ## Advertisements
 - AdSpace on Blockchain - https://github.com/oceanchild/Centurion
@@ -22,8 +12,4 @@ A Curation of Creative Applications of Blockchain Technology
 - Affiliation based AdChain - https://github.com/sayak119/Ad-Chain
 - Ad Billboard Marketplace - https://github.com/kdugue/billboards
 
-## Satellite Networks
-- Blockchain Network for Low Earth Objects >> https://github.com/sergiomtzlosa/blockchain-satellite
-- Blockstream >> https://github.com/Blockstream/satellite
-- Spacechain >> https://spacechain.com/
-- Lithopia >> https://github.com/anonette/lithopia
+
