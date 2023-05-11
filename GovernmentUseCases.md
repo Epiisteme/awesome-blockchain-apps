@@ -15,10 +15,16 @@
 - https://www.ijert.org/research/government-scheme-and-funds-tracker-using-blockchain-IJERTV10IS050403.pdf
 
 ## Land Registration
+- https://github.com/rumjuice/blockchain-land-registry
 
 ## Land Records Management
 
 ## Certificate Management
+
+## Law Enforcement
+- https://github.com/samarthtambad/blockchain-for-law-enforcement
+- https://www.natlawreview.com/article/chain-custody-evidence-using-blockchain-technology
+- https://www.chain.com/blog/how-can-blockchain-technology-be-applied-to-chain-of-custody
 
 ## Traffic Management
 - NASA Hyperledger Pilot >> https://bit.ly/2JSoR9u
